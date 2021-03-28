@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://achillesly.github.io/AchillesLy/sitemap.xml
+Sitemap: https://www.achilleslu.com/sitemap.xml
