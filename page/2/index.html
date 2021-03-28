@@ -44,7 +44,7 @@
 <meta property="og:description" content="Hugo theme even." />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="https://www.achilleslu.com/" />
-<meta property="og:updated_time" content="2018-11-05T16:01:23+08:00" />
+<meta property="og:updated_time" content="2021-03-28T00:00:00+00:00" />
 <meta itemprop="name" content="Achilles">
 <meta itemprop="description" content="Hugo theme even.">
 <meta name="twitter:card" content="summary"/>
@@ -74,7 +74,9 @@
 </div>
 <nav id="mobile-menu" class="mobile-menu slideout-menu">
   <ul class="mobile-menu-list">
-    <a href="/post/">
+    <a href="/">
+        <li class="mobile-menu-item">Home</li>
+      </a><a href="/post/">
         <li class="mobile-menu-item">Archives</li>
       </a><a href="/tags/">
         <li class="mobile-menu-item">Tags</li>
@@ -94,6 +96,8 @@
 <nav class="site-navbar">
   <ul id="menu" class="menu">
     <li class="menu-item">
+        <a class="menu-item-link" href="/">Home</a>
+      </li><li class="menu-item">
         <a class="menu-item-link" href="/post/">Archives</a>
       </li><li class="menu-item">
         <a class="menu-item-link" href="/tags/">Tags</a>
@@ -110,6 +114,67 @@
       <div class="content-wrapper">
         <div id="content" class="content">
           <section id="posts" class="posts">
+    <article class="post">
+  <header class="post-header">
+    <h1 class="post-title"><a class="post-link" href="/post/shortcodes/">Shortcodes</a></h1>
+    <div class="post-meta">
+      <span class="post-time"> 2016-08-30 </span>
+      <div class="post-category">
+          <a href="/categories/shortcodes/"> shortcodes </a>
+          </div>
+    </div>
+  </header>
+  
+  <div class="post-content">
+    <div class="post-summary">
+      <h1 id="admonition">Admonition</h1>
+<div class="admonition note"><p class="admonition-title">I&#39;m title!</p>
+<p>biu biu biu.</p>
+<details class="admonition note"><summary class="admonition-title">note</summary>
+  <p>biu biu biu.</p>
+</details>
+<div class="admonition example">
+  <p>Without title.</p>
+</div>
+</div>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-markdown" data-lang="markdown">{{% admonition note &#34;I&#39;m title!&#34; false %}}
+biu biu biu.
+
+{{% admonition type=&#34;note&#34; title=&#34;note&#34; details=&#34;true&#34; %}}
+biu biu biu.
+{{% /admonition %}}
+
+{{% admonition example %}}
+Without title.
+{{% /admonition %}}
+
+{{% /admonition %}}
+</code></pre></td></tr></table>
+</div>
+</div>
+    </div>
+    <div class="read-more">
+      <a href="/post/shortcodes/" class="read-more-link">Read more...</a>
+    </div>
+  </div>
+</article>
+
     <article class="post">
   <header class="post-header">
     <h1 class="post-title"><a class="post-link" href="/post/js-flowchart-diagrams/">JS Flowchart Diagrams</a></h1>
@@ -233,28 +298,6 @@ Andrew-&gt;&gt;China: I am good thanks!
   </div>
 </article>
 
-    <article class="post">
-  <header class="post-header">
-    <h1 class="post-title"><a class="post-link" href="/post/first-code-practice/">First code practice</a></h1>
-    <div class="post-meta">
-      <span class="post-time"> 0001-01-01 </span>
-      
-    </div>
-  </header>
-  
-  <div class="post-content">
-    <div class="post-summary">
-      SharseArray
- this demo is to help us transform the data from big data to the small data
-what we need to notic  &#34;= new int [11][11];&#34; it means we have a Array is 11*11.
-  2D to sparseArray, then sparseArray to 2D  1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106  public class SparseArray { //create init 2D array  // 0 means not 1 black 2 blue  public static void main(String[] args) { System.
-    </div>
-    <div class="read-more">
-      <a href="/post/first-code-practice/" class="read-more-link">Read more...</a>
-    </div>
-  </div>
-</article>
-
     </section>
   
   <nav class="pagination">
@@ -272,8 +315,8 @@ what we need to notic  &#34;= new int [11][11];&#34; it means we have a Array is
 
     <footer id="footer" class="footer">
       <div class="social-links">
-      <a href="lytreetree@gmail.com" class="iconfont icon-email" title="email"></a>
-      <a href="www.linkedin.com/in/achilles-lu" class="iconfont icon-linkedin" title="linkedin"></a>
+      <a href="https://lytreetree@gmail.com" class="iconfont icon-email" title="email"></a>
+      <a href="https://www.linkedin.com/in/achilles-lu" class="iconfont icon-linkedin" title="linkedin"></a>
       <a href="https://github.com/AchillesLy" class="iconfont icon-github" title="github"></a>
   <a href="https://www.achilleslu.com/index.xml" type="application/rss+xml" class="iconfont icon-rss" title="rss"></a>
 </div>
