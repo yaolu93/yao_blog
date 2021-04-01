@@ -10,13 +10,62 @@
   
   <url>
     <loc>https://www.achilleslu.com/</loc>
-    <lastmod>2020-12-23T00:00:00+00:00</lastmod>
+    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://www.achilleslu.com/categories/</loc>
+    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.achilleslu.com/tags/command/</loc>
+    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.achilleslu.com/post/command_pattern/</loc>
+    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.achilleslu.com/categories/design-pattern/</loc>
+    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.achilleslu.com/post/</loc>
+    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.achilleslu.com/tags/python/</loc>
+    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.achilleslu.com/tags/</loc>
+    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.achilleslu.com/tags/java/</loc>
     <lastmod>2020-12-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -30,42 +79,14 @@
   </url>
   
   <url>
-    <loc>https://www.achilleslu.com/post/</loc>
+    <loc>https://www.achilleslu.com/tags/leetcode/</loc>
     <lastmod>2020-12-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://www.achilleslu.com/tags/preview/</loc>
-    <lastmod>2020-12-23T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.achilleslu.com/tags/tag-1/</loc>
-    <lastmod>2020-12-23T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.achilleslu.com/tags/</loc>
-    <lastmod>2020-12-23T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.achilleslu.com/tags/%E4%B8%AD%E6%96%87/</loc>
-    <lastmod>2020-12-23T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.achilleslu.com/categories/%E4%B8%AD%E6%96%87/</loc>
+    <loc>https://www.achilleslu.com/categories/leetcode/</loc>
     <lastmod>2020-12-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -79,22 +100,15 @@
   </url>
   
   <url>
-    <loc>https://www.achilleslu.com/categories/design-pattern/</loc>
-    <lastmod>2019-06-04T22:01:19+08:00</lastmod>
+    <loc>https://www.achilleslu.com/tags/%E4%B8%AD%E6%96%87/</loc>
+    <lastmod>2020-06-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://www.achilleslu.com/tags/java/</loc>
-    <lastmod>2019-06-04T22:01:19+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.achilleslu.com/categories/leetcode/</loc>
-    <lastmod>2019-06-04T22:01:19+08:00</lastmod>
+    <loc>https://www.achilleslu.com/categories/%E4%B8%AD%E6%96%87/</loc>
+    <lastmod>2020-06-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -122,13 +136,6 @@
   
   <url>
     <loc>https://www.achilleslu.com/categories/penetration-test/</loc>
-    <lastmod>2019-06-04T22:01:19+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.achilleslu.com/tags/python/</loc>
     <lastmod>2019-06-04T22:01:19+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
