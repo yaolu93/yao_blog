@@ -9,13 +9,12 @@
     <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.achilleslu.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CV</title>
-      <link>https://www.achilleslu.com/about/</link>
-      <pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate>
+      <link>https://www.achilleslu.com/cv/</link>
+      <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://www.achilleslu.com/about/</guid>
-      <description>Hugo is a static site engine written in Go.
-It makes use of a variety of open source projects including:
- Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.</description>
+      <guid>https://www.achilleslu.com/cv/</guid>
+      <description>A Knowledge Enthusiast and ambitious Software Engineer with 4+ years of experience across various industry sectors. Including insurance, educational institution and IT. Additionally has a good personality, adapts to different countries, multi-language, and diverse development environments. Always considering cohesion and optimizing software with design patterns and algorithms.
+ TECHNICAL SKILLS AND EXPERTISE  Programming and Scripting Language: JAVA, Python, Golang, SQL, LINUX SHELL SCRIPTING, JAVASCRIPT, HTML 5, CSS 3, XML.</description>
     </item>
     
     <item>
