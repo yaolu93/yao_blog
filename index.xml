@@ -13,7 +13,11 @@
       <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://www.achilleslu.com/cv/</guid>
+<<<<<<< HEAD
       <description>A Knowledge Enthusiast and ambitious Software Engineer with 3+ years of experience across various industry sectors. Including insurance, educational institution and IT. Additionally has a good personality and adapts to different countries, multi-language, and diverse development environments. Always considering cohesion and optimizing software with design patterns and algorithms.
+=======
+      <description>A Knowledge Enthusiast and ambitious Software Engineer with 3+ years of experience across various industry sectors. Including insurance, educational institution and IT. Additionally has a good personality, adapts to different countries, multi-language, and diverse development environments. Always considering cohesion and optimizing software with design patterns and algorithms.
+>>>>>>> 36f7f9b68e023ff2e6dcb817a24b0191ab8a015e
  TECHNICAL SKILLS AND EXPERTISE  Programming and Scripting Language: JAVA, Python, Golang, SQL, LINUX SHELL SCRIPTING, JAVASCRIPT, HTML 5, CSS 3, XML.</description>
     </item>
     
