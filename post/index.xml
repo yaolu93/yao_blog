@@ -6,7 +6,7 @@
     <description>Recent content in Posts on Achilles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.achilleslu.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.achilleslu.com/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Theme preview</title>
       <link>https://www.achilleslu.com/post/even-preview/</link>
@@ -14,6 +14,19 @@
       
       <guid>https://www.achilleslu.com/post/even-preview/</guid>
       <description>Based on MarkdownPreview test.md. Markdown 1 2 3 4 5 6 7 8 # H1 ## H2 ### H3 #### H4 ##### H5 ###### H6 ### Duplicate Header ### Duplicate Header H1 H2 H3 H4 H5 H6 Duplicate Header Duplicate Header Paragraphs 1 2 3 4 This is a paragraph. I am still part of the paragraph. New paragraph. This is a paragraph. I am still part of the paragraph.</description>
+    </item>
+    
+    <item>
+      <title>Linklist and DoublyLinklist</title>
+      <link>https://www.achilleslu.com/post/linklist_and_doublylinklist/</link>
+      <pubDate>Thu, 16 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.achilleslu.com/post/linklist_and_doublylinklist/</guid>
+      <description>This demo is to help us identify the different between the Linklist and DoublyLinklist
+ what we need to notice
+ Compare with the Linklist and DoublyLinklist, the Linklist compact with two elements, one is item, another is next point. the DoublyLinklist concact three elements, one is item as well, two others are preview ponit and next point.
+Linklist  Linklist
+ please notice some boundary conditions, like when we insert the elements the index need to be security check (index &amp;lt; 0 || index &amp;gt; N is not allowed)</description>
     </item>
     
     <item>
