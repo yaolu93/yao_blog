@@ -44,13 +44,6 @@
   </url>
   
   <url>
-    <loc>https://www.achilleslu.com/post/linklist_and_doublylinklist/</loc>
-    <lastmod>2021-09-17T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://www.achilleslu.com/post/</loc>
     <lastmod>2021-09-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -58,7 +51,35 @@
   </url>
   
   <url>
+    <loc>https://www.achilleslu.com/post/quicksort/</loc>
+    <lastmod>2021-09-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.achilleslu.com/tags/sort/</loc>
+    <lastmod>2021-09-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://www.achilleslu.com/tags/</loc>
+    <lastmod>2021-09-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.achilleslu.com/tags/linear/</loc>
+    <lastmod>2021-09-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.achilleslu.com/post/linklist_and_doublylinklist/</loc>
     <lastmod>2021-09-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

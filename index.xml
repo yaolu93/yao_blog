@@ -6,7 +6,7 @@
     <description>Recent content on Achilles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 16 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.achilleslu.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.achilleslu.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CV</title>
       <link>https://www.achilleslu.com/cv/</link>
@@ -15,6 +15,16 @@
       <guid>https://www.achilleslu.com/cv/</guid>
       <description>A Knowledge Enthusiast and ambitious Software Engineer with 3+ years of experience across various industry sectors. Including insurance, educational institution and IT. Additionally has a good personality and adapts to different countries, multi-language, and diverse development environments. Always considering cohesion and optimizing software with design patterns and algorithms.
  TECHNICAL SKILLS AND EXPERTISE  Programming and Scripting Language: JAVA, Python, Golang, SQL, LINUX SHELL SCRIPTING, JAVASCRIPT, HTML 5, CSS 3, XML.</description>
+    </item>
+    
+    <item>
+      <title>Quick Sort and Partition</title>
+      <link>https://www.achilleslu.com/post/quicksort/</link>
+      <pubDate>Fri, 17 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.achilleslu.com/post/quicksort/</guid>
+      <description>Quick Sort Quick sort is a Divide and Conquer algorithm. It partitions a large array into two arrays by a pivot value, and carry out the process recursively so that the entire array becomes an ordered sequence.
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43  public class QuickSort { public static void main(String[] args) { System.</description>
     </item>
     
     <item>

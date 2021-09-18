@@ -6,11 +6,11 @@
     <description>Recent content in Tags on Achilles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 16 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.achilleslu.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.achilleslu.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Java</title>
       <link>https://www.achilleslu.com/tags/java/</link>
-      <pubDate>Thu, 16 Sep 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 17 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://www.achilleslu.com/tags/java/</guid>
       <description></description>
@@ -19,9 +19,27 @@
     <item>
       <title>Leetcode</title>
       <link>https://www.achilleslu.com/tags/leetcode/</link>
-      <pubDate>Thu, 16 Sep 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 17 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://www.achilleslu.com/tags/leetcode/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sort</title>
+      <link>https://www.achilleslu.com/tags/sort/</link>
+      <pubDate>Fri, 17 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.achilleslu.com/tags/sort/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linear</title>
+      <link>https://www.achilleslu.com/tags/linear/</link>
+      <pubDate>Thu, 16 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.achilleslu.com/tags/linear/</guid>
       <description></description>
     </item>
     
