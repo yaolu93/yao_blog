@@ -9,13 +9,6 @@
   </url>
   
   <url>
-    <loc>https://www.achilleslu.com/</loc>
-    <lastmod>2021-09-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://www.achilleslu.com/post/bubble-sort/</loc>
     <lastmod>2021-09-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -66,6 +59,13 @@
   
   <url>
     <loc>https://www.achilleslu.com/tags/</loc>
+    <lastmod>2021-09-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.achilleslu.com/</loc>
     <lastmod>2021-09-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -193,18 +193,6 @@
   <url>
     <loc>https://www.achilleslu.com/tags/vistor/</loc>
     <lastmod>2019-06-04T22:01:19+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.achilleslu.com/post/insertion-sort/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.achilleslu.com/post/selection-sort/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

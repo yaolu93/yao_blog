@@ -6,13 +6,13 @@ public class LinkList<T> implements Iterable<T>{
 
     public static void main(String[] args){
         System.out.println("LinkList!");
-        
+
         LinkList<String> link = new LinkList<>();
         link.insert(0, "number01");
         link.insert(1, "number02");
         link.insert(2, "number03");
         link.insert(3, "number04");
-
+    
         for (String string : link) {
             System.out.println(string);
         }
@@ -196,6 +196,8 @@ public class LinkList<T> implements Iterable<T>{
 
     //反转指定的结点curr，并把反转后的结点返回
     public Node reverse(Node curr){
+	//what we  really need to knwo is
+	// type variable = value;
         if (curr.next==null){
             head.next=curr;
             System.out.println("Curr="+ curr.item.toString());
