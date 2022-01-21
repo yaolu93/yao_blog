@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Notes on Yao</title>
+    <link>https://www.achilleslu.com/note/</link>
+    <description>Recent content in Notes on Yao</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://www.achilleslu.com/note/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://www.achilleslu.com/note/kafka/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.achilleslu.com/note/kafka/</guid>
+      <description>tokafka: real-time event driven application produce comsume fast high accuracy in order fault tolerant 栈：负责运行。 一个请求一个线程，就会出现没有内存去分配的形况。 栈内存溢出。（cristiano问过这个。） 一个服</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.achilleslu.com/note/linux_shell/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.achilleslu.com/note/linux_shell/</guid>
+      <description>理解 shell 的父子关系 默认为 command prompt 我们需要转换那 git 的用户名 yaolu Ly19931223. Git Stage git stash save &amp;lsquo;message&amp;hellip;&amp;lsquo;可以添加一些注释 s</description>
+    </item>
+    
+  </channel>
+</rss>
