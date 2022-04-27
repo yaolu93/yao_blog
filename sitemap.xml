@@ -198,12 +198,15 @@
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>https://www.achilleslu.com/note/a_notebook/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
+=======
+>>>>>>> 06e3825bf8fa169744bae9c0f2ef10887be924b2
     <loc>https://www.achilleslu.com/note/kafka/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
