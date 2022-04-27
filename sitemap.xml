@@ -3,14 +3,7 @@
   
   <url>
     <loc>https://www.achilleslu.com/cv/</loc>
-    <lastmod>2021-04-02T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.achilleslu.com/</loc>
-    <lastmod>2021-09-20T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -66,6 +59,13 @@
   
   <url>
     <loc>https://www.achilleslu.com/tags/</loc>
+    <lastmod>2021-09-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.achilleslu.com/</loc>
     <lastmod>2021-09-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -198,13 +198,25 @@
   </url>
   
   <url>
-    <loc>https://www.achilleslu.com/post/insertion-sort/</loc>
+    <loc>https://www.achilleslu.com/note/a_notebook/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://www.achilleslu.com/post/selection-sort/</loc>
+    <loc>https://www.achilleslu.com/note/kafka/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.achilleslu.com/note/linux_shell/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.achilleslu.com/note/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

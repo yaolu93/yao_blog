@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Achilles</title>
+    <title>Yao</title>
     <link>https://www.achilleslu.com/</link>
-    <description>Recent content on Achilles</description>
+    <description>Recent content on Yao</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 20 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.achilleslu.com/index.xml" rel="self" type="application/rss+xml" />
@@ -13,8 +13,11 @@
       <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://www.achilleslu.com/cv/</guid>
-      <description>A Knowledge Enthusiast and ambitious Software Engineer with 3+ years of experience across various industry sectors. Including insurance, educational institution and IT. Additionally has a good personality and adapts to different countries, multi-language, and diverse development environments. Always considering cohesion and optimizing software with design patterns and algorithms.
- TECHNICAL SKILLS AND EXPERTISE  Programming and Scripting Language: JAVA, Python, Golang, SQL, LINUX SHELL SCRIPTING, JAVASCRIPT, HTML 5, CSS 3, XML.</description>
+      <description>A Knowledge Enthusiast and ambitious Software Engineer with 3+ years of practical experience. Additionally has a good personality and adapts to different countries, multi-language, and diverse development environments. Always considering cohesion and optimizing software with design patterns and algorithms.
+ EDUCATION   2020-2021 Master, Software Engineering: University of Limerick Limerick, Ireland (First-Class Honours 1.1)
+Dissertation: Comparing Approaches for the Migration toMicroservices Architecture using Smells
+(A1 Grade)
+ 2012-2016 BSc, Petroleum Engineering: University of Yangtze Jingzhou, China  PROFESSIONAL EXPERIENCE  AmdocsNov 2021 - Present DevOps Engineer	Dublin, Ireland</description>
     </item>
     
     <item>
@@ -92,22 +95,29 @@ Linklist  Linklist
     
     <item>
       <title></title>
-      <link>https://www.achilleslu.com/post/insertion-sort/</link>
+      <link>https://www.achilleslu.com/note/a_notebook/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.achilleslu.com/post/insertion-sort/</guid>
-      <description>Insertion Sort Insertion Sort is a simple sorting algorithm. It is not suitable for large data sets, as its complexity are on ��(n2).
-public class InsertionSort {public static void main(String[] args) {System.out.println(&amp;quot;Insertion, Sort!!&amp;quot;);Integer[] array = { 6, 1, 3, 2, 5, 4, 8, 7 };insertion(array);System.out.println(Arrays.toString(array));}private static void exchange(Comparable[] a, int i, int j) {Comparable temp;temp = a[i];a[i] = a[j];a[j] = temp;}private static boolean greater(Comparable v, Comparable w) {return v.</description>
+      <guid>https://www.achilleslu.com/note/a_notebook/</guid>
+      <description>争取以后在 Emacs上开发了 特么的以后配置好的环境真的不能手贱去修改的啊 同步发送消息，异步发送消息。 char 的取值范围和 byte, short, int 的都不一样，在向上转</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://www.achilleslu.com/post/selection-sort/</link>
+      <link>https://www.achilleslu.com/note/kafka/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.achilleslu.com/post/selection-sort/</guid>
-      <description>Selection Sort The Selection sort algorithm repeatedly finds the minimum/maximum element from the unsorted part of the array and putting it at the end of the sorted part of the array. It&amp;rsquo;s not suitable for large data set, as its time complexity are on O(n2).
-public class SelectionSort {public static void main(String[] args) {System.out.println(&amp;quot;Selection,Sort!&amp;quot;);Integer[] a = { 8, 2, 3, 1, 4, 6, 7, 5 };selection(a);System.</description>
+      <guid>https://www.achilleslu.com/note/kafka/</guid>
+      <description>tokafka: real-time event driven application produce comsume fast high accuracy in order fault tolerant 栈：负责运行。 一个请求一个线程，就会出现没有内存去分配的形况。 栈内存溢出。（cristiano问过这个。） 一个服</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.achilleslu.com/note/linux_shell/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.achilleslu.com/note/linux_shell/</guid>
+      <description>理解 shell 的父子关系 默认为 command prompt 我们需要转换那 git 的用户名 yaolu Ly19931223. Git Stage git stash save &amp;lsquo;message&amp;hellip;&amp;lsquo;可以添加一些注释 s</description>
     </item>
     
   </channel>
