@@ -3,10 +3,7 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
-<<<<<<< HEAD
       <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
-=======
->>>>>>> 06e3825bf8fa169744bae9c0f2ef10887be924b2
       <sourceFolder url="file://$MODULE_DIR$/.leetcode" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/tree" isTestSource="false" />
     </content>

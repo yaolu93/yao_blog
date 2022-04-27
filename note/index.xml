@@ -8,7 +8,6 @@
     <language>en</language><atom:link href="https://www.achilleslu.com/note/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-<<<<<<< HEAD
       <link>https://www.achilleslu.com/note/a_notebook/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -18,8 +17,6 @@
     
     <item>
       <title></title>
-=======
->>>>>>> 06e3825bf8fa169744bae9c0f2ef10887be924b2
       <link>https://www.achilleslu.com/note/kafka/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
