@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://www.yaolugnu.com/sitemap.xml
+Sitemap: https://yaolu93.github.io/AchillesLy/sitemap.xml
