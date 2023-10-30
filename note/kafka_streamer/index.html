@@ -16,8 +16,7 @@
 <meta name="apple-mobile-web-app-status-bar-style" content="#f8f5ec">
 
 
-<meta name="author" content="Yao" /><meta name="description" content="22 ;; This buffer is for text that is not saved, and for Lisp evaluation. ;; To create a file, visit it with  and enter text in its buffer.
-he-icons-ivy.el’ newer than byte-compiled file; using older file Cleaning up the recentf list&amp;hellip;done (0 removed) Mark set [2 times]  is undefined Mark set [2 times] command-execute: Buffer is read-only: #&amp;lt;buffer Messages&amp;gt; [4 times] n is undefined p is undefined n is undefined p is undefined Print buffer Messages?" />
+<meta name="author" content="Yao" /><meta name="description" content="1 2 3 4 5 6 7 8 9 10 11  sudo systemctl status confluent* sudo systemctl restart confluent-kafka-connect sudo systemctl restart confluent-kafka sudo systemctl restart confluent-zookeeper sudo systemctl restart confluent-schema-registry sudo systemctl restart odf-streamer ## streamer logs sudo journalctl -u odf-streamer.service -n 1000 -f   " />
 
 
 
@@ -27,7 +26,7 @@ he-icons-ivy.el’ newer than byte-compiled file; using older file Cleaning up t
 <meta name="generator" content="Hugo 0.91.2 with theme even" />
 
 
-<link rel="canonical" href="https://www.yaolugnu.com/note/test/" />
+<link rel="canonical" href="https://www.yaolugnu.com/note/kafka_streamer/" />
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
@@ -41,22 +40,19 @@ he-icons-ivy.el’ newer than byte-compiled file; using older file Cleaning up t
 
 
 <meta property="og:title" content="" />
-<meta property="og:description" content="22 ;; This buffer is for text that is not saved, and for Lisp evaluation. ;; To create a file, visit it with  and enter text in its buffer.
-he-icons-ivy.el’ newer than byte-compiled file; using older file Cleaning up the recentf list&hellip;done (0 removed) Mark set [2 times]  is undefined Mark set [2 times] command-execute: Buffer is read-only: #&lt;buffer Messages&gt; [4 times] n is undefined p is undefined n is undefined p is undefined Print buffer Messages?" />
+<meta property="og:description" content="1 2 3 4 5 6 7 8 9 10 11  sudo systemctl status confluent* sudo systemctl restart confluent-kafka-connect sudo systemctl restart confluent-kafka sudo systemctl restart confluent-zookeeper sudo systemctl restart confluent-schema-registry sudo systemctl restart odf-streamer ## streamer logs sudo journalctl -u odf-streamer.service -n 1000 -f   " />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.yaolugnu.com/note/test/" /><meta property="article:section" content="note" />
+<meta property="og:url" content="https://www.yaolugnu.com/note/kafka_streamer/" /><meta property="article:section" content="note" />
 
 
 
 <meta itemprop="name" content="">
-<meta itemprop="description" content="22 ;; This buffer is for text that is not saved, and for Lisp evaluation. ;; To create a file, visit it with  and enter text in its buffer.
-he-icons-ivy.el’ newer than byte-compiled file; using older file Cleaning up the recentf list&hellip;done (0 removed) Mark set [2 times]  is undefined Mark set [2 times] command-execute: Buffer is read-only: #&lt;buffer Messages&gt; [4 times] n is undefined p is undefined n is undefined p is undefined Print buffer Messages?">
+<meta itemprop="description" content="1 2 3 4 5 6 7 8 9 10 11  sudo systemctl status confluent* sudo systemctl restart confluent-kafka-connect sudo systemctl restart confluent-kafka sudo systemctl restart confluent-zookeeper sudo systemctl restart confluent-schema-registry sudo systemctl restart odf-streamer ## streamer logs sudo journalctl -u odf-streamer.service -n 1000 -f   ">
 
-<meta itemprop="wordCount" content="370">
+<meta itemprop="wordCount" content="45">
 <meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content=""/>
-<meta name="twitter:description" content="22 ;; This buffer is for text that is not saved, and for Lisp evaluation. ;; To create a file, visit it with  and enter text in its buffer.
-he-icons-ivy.el’ newer than byte-compiled file; using older file Cleaning up the recentf list&hellip;done (0 removed) Mark set [2 times]  is undefined Mark set [2 times] command-execute: Buffer is read-only: #&lt;buffer Messages&gt; [4 times] n is undefined p is undefined n is undefined p is undefined Print buffer Messages?"/>
+<meta name="twitter:description" content="1 2 3 4 5 6 7 8 9 10 11  sudo systemctl status confluent* sudo systemctl restart confluent-kafka-connect sudo systemctl restart confluent-kafka sudo systemctl restart confluent-zookeeper sudo systemctl restart confluent-schema-registry sudo systemctl restart odf-streamer ## streamer logs sudo journalctl -u odf-streamer.service -n 1000 -f   "/>
 
 <!--[if lte IE 9]>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/classlist/1.1.20170427/classList.min.js"></script>
@@ -132,78 +128,35 @@ he-icons-ivy.el’ newer than byte-compiled file; using older file Cleaning up t
         <div id="content" class="content">
           <article class="post">
   <div class="post-content">
-    <p>22
-;; This buffer is for text that is not saved, and for Lisp evaluation.
-;; To create a file, visit it with <open> and enter text in its buffer.</p>
-<p>he-icons-ivy.el’ newer than byte-compiled file; using older file
-Cleaning up the recentf list&hellip;done (0 removed)
-Mark set [2 times]
-<s-drag-mouse-1> is undefined
-Mark set [2 times]
-command-execute: Buffer is read-only: #&lt;buffer <em>Messages</em>&gt; [4 times]
-n is undefined
-p is undefined
-n is undefined
-p is undefined
-Print buffer <em>Messages</em>? y
-Spooling&hellip;
-user-error: Spooling&hellip;done: /usr/bin/lpr: Error - No default destination.</p>
-<p>funcall-interactively: Attempt to delete the sole visible or iconified frame
-Print buffer <em>Messages</em>? n
-ns-print-buffer: Canceled
-command-execute: Buffer is read-only: #&lt;buffer <em>Messages</em>&gt; [5 times]
-scroll-up-command: End of buffer
-Quit
-funcall-interactively: Attempt to delete the sole visible or iconified frame [9 times]
-command-execute: Buffer is read-only: #&lt;buffer <em>Messages</em>&gt; [3 times]
-End of buffer [32 times]
-ns-put-working-text: Buffer is read-only: #&lt;buffer <em>Messages</em>&gt; [3 times]
-p is undefined
-n is undefined
-p is undefined
-M-p is undefined
-n is undefined
-p is undefined
-n is undefined [2 times]
-p is undefined
-n is undefined
-next-line: End of bufferhe-icons-ivy.el’ newer than byte-compiled file; using older file
-Cleaning up the recentf list&hellip;done (0 removed)
-Mark set [2 times]
-<s-drag-mouse-1> is undefined
-Mark set [2 times]
-command-execute: Buffer is read-only: #&lt;buffer <em>Messages</em>&gt; [4 times]
-n is undefined
-p is undefined
-n is undefined
-p is undefined
-Print buffer <em>Messages</em>? y
-Spooling&hellip;
-user-error: Spooling&hellip;done: /usr/bin/lpr: Error - No default destination.
-ns-print-buffer: Canceled
-command-execute: Buffer is read-only: #&lt;buffer <em>Messages</em>&gt; [5 times]
-scroll-up-command: End of buffer
-Quit
-funcall-interactively: Attempt to delete the sole visible or iconified frame [9 times]
-Source file ‘/Users/achilles/.emacs.d/elpa/all-the-icons-ivy-20190508.1803/all-the-icons-ivy.el’ newer than byte-compiled file; using older file
-Source file ‘/Users/achilles/.emacs.d/elpa/all-the-icons-ivy-20190508.1803/all-the-icons-ivy.el’ newer than byte-compiled file; using older file
-Source file ‘/Users/achilles/.emacs.d/elpa/all-the-icons-ivy-20190508.1803/all-the-icons-ivy.el’ newer than byte-compiled file; using older file
-Source file ‘/Users/achilles/.emacs.d/elpa/all-the-icons-ivy-20190508.1803/all-the-icons-ivy.el’ newer than byte-compiled file; using older file
-command-execute: Buffer is read-only: #&lt;buffer <em>Messages</em>&gt; [3 times]
-End of buffer [32 times]
-ns-put-working-text: Buffer is read-only: #&lt;buffer <em>Messages</em>&gt; [3 times]
-p is undefined
-n is undefined
-p is undefined
-M-p is undefined
-n is undefined
-p is undefined
-n is undefined [2 times]
-p is undefined
-n is undefined
-next-line: End of buffer
-Source file ‘/Users/achilles/.emacs.d/elpa/all-the-icons-ivy-20190508.1803/all-the-icons-ivy.el’ newer than byte-compiled file; using older file</p>
+    <div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash">
+sudo systemctl status confluent*
+sudo systemctl restart confluent-kafka-connect
+sudo systemctl restart confluent-kafka
+sudo systemctl restart confluent-zookeeper
+sudo systemctl restart confluent-schema-registry
+sudo systemctl restart odf-streamer
 
+
+<span class="c1">## streamer logs</span>
+sudo journalctl -u odf-streamer.service -n <span class="m">1000</span> -f
+</code></pre></td></tr></table>
+</div>
+</div>
   </div>
 </article>
         </div>
