@@ -139,5 +139,15 @@ Linklist  Linklist
       <description>理解 shell 的父子关系 默认为 command prompt 我们需要转换那 git 的用户名 yaolu Ly19931223. Git Stage git stash save &amp;lsquo;message&amp;hellip;&amp;lsquo;可以添加一些注释 s</description>
     </item>
     
+    <item>
+      <title></title>
+      <link>https://www.yaolugnu.com/note/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.yaolugnu.com/note/test/</guid>
+      <description>22 ;; This buffer is for text that is not saved, and for Lisp evaluation. ;; To create a file, visit it with  and enter text in its buffer.
+he-icons-ivy.el’ newer than byte-compiled file; using older file Cleaning up the recentf list&amp;hellip;done (0 removed) Mark set [2 times]  is undefined Mark set [2 times] command-execute: Buffer is read-only: #&amp;lt;buffer Messages&amp;gt; [4 times] n is undefined p is undefined n is undefined p is undefined Print buffer Messages?</description>
+    </item>
+    
   </channel>
 </rss>
