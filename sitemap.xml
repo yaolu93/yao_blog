@@ -264,12 +264,15 @@
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>https://www.yaolugnu.com/note/emacs_edu/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
+=======
+>>>>>>> 646945f00f4cd297d985fa39f786110cab66301d
     <loc>https://www.yaolugnu.com/note/k8_docker_command/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

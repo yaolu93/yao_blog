@@ -6,11 +6,17 @@
     <description>Recent content in Kafka on Yao</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+<<<<<<< HEAD
     <lastBuildDate>Fri, 19 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.yaolugnu.com/categories/kafka/index.xml" rel="self" type="application/rss+xml" />
+=======
+    <lastBuildDate>Fri, 19 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.yaolugnu.com/categories/kafka/index.xml" rel="self" type="application/rss+xml" />
+>>>>>>> 646945f00f4cd297d985fa39f786110cab66301d
     <item>
       <title>Apache_Kafka_Architecture_Topology</title>
       <link>https://www.yaolugnu.com/post/apache_kafka_architecture_topology/</link>
       <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
+<<<<<<< HEAD
       
       <guid>https://www.yaolugnu.com/post/apache_kafka_architecture_topology/</guid>
       <description>This article will describe the how the Apache Kafka work with components
@@ -22,5 +28,10 @@ Transformer // to do
 Register Schema // to do</description>
     </item>
     
+=======
+      <guid>https://www.yaolugnu.com/post/apache_kafka_architecture_topology/</guid>
+      <description>This article will describe the how the Apache Kafka work with components&#xA;Kafka and components： // to do&#xA;Source connector： // to do&#xA;Sink connector： // to do&#xA;Streamer： // to do&#xA;Transformer // to do&#xA;Register Schema // to do</description>
+    </item>
+>>>>>>> 646945f00f4cd297d985fa39f786110cab66301d
   </channel>
 </rss>

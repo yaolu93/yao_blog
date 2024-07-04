@@ -26,7 +26,11 @@ minikube start &amp;ndash;embed-certs &amp;ndash;cpus 2 &amp;ndash;memory 8192 &
 
 
 
+<<<<<<< HEAD
 <meta name="generator" content="Hugo 0.92.2 with theme even" />
+=======
+<meta name="generator" content="Hugo 0.121.2 with theme even" />
+>>>>>>> 646945f00f4cd297d985fa39f786110cab66301d
 
 
 <link rel="canonical" href="https://www.yaolugnu.com/note/k8_docker_command/" />
@@ -59,8 +63,12 @@ watch -n 1 helm list watch -n 10 helm list -n kafka-external watch -n 1 kubectl 
 minikube start &ndash;embed-certs &ndash;cpus 2 &ndash;memory 8192 &ndash;kubernetes-version=${K8S_VERSION} minikube start &ndash;embed-certs &ndash;cpus 2 &ndash;memory 8192 &ndash;kubernetes-version=v1.25.0 minikube start &ndash;kubernetes-version=1.21.0 &ndash;embed-certs &ndash;cpus 2 &ndash;memory 8192">
 
 <meta itemprop="wordCount" content="195">
+<<<<<<< HEAD
 <meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content=""/>
+=======
+<meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/><meta name="twitter:title" content=""/>
+>>>>>>> 646945f00f4cd297d985fa39f786110cab66301d
 <meta name="twitter:description" content="K8s kgetpods -n kafka-external -w
 kubectl get events -w k get events -w -n kafka-external k get pods -n monitoring -w k logs -f monitoring-metrics-beat-metricbeat-665485c685-tcz72 -n monitoring
 watch -n 1 helm list watch -n 10 helm list -n kafka-external watch -n 1 kubectl get pods -n cgf
@@ -153,7 +161,11 @@ watch -n 1 kubectl get pods -n cgf</p>
 minikube start &ndash;embed-certs &ndash;cpus 2 &ndash;memory 8192 &ndash;kubernetes-version=v1.25.0
 minikube start &ndash;kubernetes-version=1.21.0 &ndash;embed-certs &ndash;cpus 2 &ndash;memory 8192</p>
 <h3 id="get-the-password-for-kibana-userid-is-elastic">get the password for Kibana, userid is elastic</h3>
+<<<<<<< HEAD
 <p>kubectl -n monitoring get secret monitoring-elasticsearch-es-elastic-user -o=jsonpath='{.data.elastic}' | base64 &ndash;decode; echo</p>
+=======
+<p>kubectl -n monitoring get secret monitoring-elasticsearch-es-elastic-user -o=jsonpath=&rsquo;{.data.elastic}&rsquo; | base64 &ndash;decode; echo</p>
+>>>>>>> 646945f00f4cd297d985fa39f786110cab66301d
 <h3 id="do-port-forwarding-on-your-dev-vm">do port forwarding on your dev-vm</h3>
 <p>kubectl port-forward &ndash;address 0.0.0.0 svc/gateway-proxy -n  monitoring 30090:80</p>
 <h1 id="docker">Docker</h1>
@@ -241,7 +253,11 @@ make install</p>
 
 
 
+<<<<<<< HEAD
 <script type="text/javascript" src="/js/main.min.c99b103c33d1539acf3025e1913697534542c4a5aa5af0ccc20475ed2863603b.js"></script>
+=======
+<script type="text/javascript" src="/js/main.min.4ae89da218555efa0e7093a20b92017d2e1202b66fff9fc2edf4cb8d44b44c6e.js"></script>
+>>>>>>> 646945f00f4cd297d985fa39f786110cab66301d
 
 
 
